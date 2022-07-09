@@ -706,6 +706,11 @@ a {
   font-weight: 700;
 }
 
+.btn-contacter {
+  display: flex;
+  justify-content: center;
+}
+
 .social {
   max-width: 400px;
   margin: auto;
